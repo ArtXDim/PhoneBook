@@ -2,7 +2,7 @@ import view
 import model
 
 def run():
-    veiw.greatings()
+    view.greatings()
     while true:
         view.menu()
         answer = input('Ответ:')
